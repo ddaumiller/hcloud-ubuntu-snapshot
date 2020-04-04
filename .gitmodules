@@ -1,0 +1,6 @@
+[submodule "cookbooks/apt"]
+	path = cookbooks/apt
+	url = https://github.com/chef-cookbooks/apt
+[submodule "cookbooks/chef-os-hardening"]
+	path = cookbooks/chef-os-hardening
+	url = https://github.com/dev-sec/chef-os-hardening
